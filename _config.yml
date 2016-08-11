@@ -12,3 +12,7 @@ color:
     - '#5C5C5C'
     - '#C0C0C0'
 name: Szabi Nemeth Photography
+navigation:
+  - name: Szabi Nemeth Portrait Artist
+    url: 'http://szabinemeth.com'
+    type: external
